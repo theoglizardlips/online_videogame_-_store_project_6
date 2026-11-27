@@ -9,6 +9,8 @@ The goal of this project is to analyze, contextualize, and discern possible patt
 
 ## Key Takeaways
 - **Work in Progress:** Originally written in Portuguese, this project was initially translated via an offline NMT engine. I am currently refining the text to ensure natural localization, accurate terminology, and clearer, more cohesive reasoning.
+- The **ESBR rating** matters a lot more for market range and reach than initially expected. Not that I ever believed an age rating would stop all parents from buying specific games for their kids, but it does stop some.
+- We discuss how different age ratings set different **marketing trends** and what the **20-year effect** can do to a customer.
 
 *This section will be updated once the translation has been completed.*
 
@@ -30,7 +32,8 @@ text
 ├── .gitattributes
 ├── .gitignore
 ├── LICENSE
-└── README.md
+├── README.md
+└── requirements.txt
 ```
 
 ## License & Data Attribution
